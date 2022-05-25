@@ -1,4 +1,4 @@
-### Hi there I'm Jose Antonio Castro, but you can call me Tony 👋
+### Hi there I'm Tomás Cortés 👋
 
 ## I'm a Student, Teaching assistant and Developer
 
