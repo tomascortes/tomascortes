@@ -2,16 +2,9 @@
 
 ## I'm a Student, Teaching assistant and Developer
 
-- 🤓 I'm currently studying **Software Engineering** at the Pontific Catholic University of Chile.
-- 🔭 I've worked and am currently working on the assistantships of 
-    - Introduction to Programming 🔥💻
-    - Advance Programming 🧠🖥️
-    - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org)👨‍💻 
-    - Technologies and Web Applications  🎧🕷️ 
-- 🌱 I’m currently learning a bit of everything 🤣
-- ⚡ I’m currently contribuiting with [**Open Source UC**](https://github.com/open-source-uc).
-- 😄 Here is the [**git convention style guide**](https://la-guia.platan.us/setup/proyectos/git) that I try to use 🍌.
-
+- 🤓 Student of **Software Engineering** at the Pontific Catholic University of Chile.
+- 🔭 Assistantships in Data mining ⛏️
+- 🤔 Interest in Data Science and 3d printing
 <br />
 
 <!--
@@ -28,8 +21,9 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
-
+<!-- 
 [<img align="left" alt="codeSTACKr | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+-->
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -106,6 +100,7 @@ or via <a href="mailto:ticortes@uc.cl"><b>email</b></a>
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [youtube]: https://youtube.com/codeSTACKr -->
-
+<!-- 
 [telegram]: https://t.me//
-[linkedin]: https://www.linkedin.com/
+-->
+[linkedin]: [https://www.linkedin.com/](https://www.linkedin.com/in/tomas-cortes-de-la-fuente-8288191b1/)
