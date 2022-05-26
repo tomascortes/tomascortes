@@ -74,11 +74,11 @@
 
 ---
 
-![Jose Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=tokyonight)
+![Tomás Cortés's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomascortes&count_private=true&show_icons=true&langs_count=8&layout=compact&custom_title=Top%20Langs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascortes&repo=Migrations-Associations&theme=tokyonight)](https://github.com/tomascortes/Migrations-Associations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascortes&repo=Data-Structures-And-Algorithms&theme=tokyonight)](https://github.com/tomascortes/Data-Structures-And-Algorithms)
 <br />
@@ -86,7 +86,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascortes&repo=bookkers-backend&theme=tokyonight)](https://github.com/tomascortes/bookkers-backend)
 <br />
 
----
+-->
 <div align="center">
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or you want to collaborate with me. <br>
