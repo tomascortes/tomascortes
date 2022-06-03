@@ -81,10 +81,10 @@
 ---
 
 
-![Tomás Cortés's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=onedark&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomascortes&count_private=true&show_icons=true&langs_count=8&layout=compact&custom_title=Top%20Langs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=onedark&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
