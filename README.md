@@ -72,10 +72,19 @@
 ![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)
 <br />
 
+### Frameworks and libraries
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ---
+
 
 ![Tomás Cortés's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomascortes&count_private=true&show_icons=true&langs_count=8&layout=compact&custom_title=Top%20Langs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=onedark&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -89,10 +98,10 @@
 -->
 <div align="center">
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better or you want to collaborate with me. <br>
-Ask me anything <a href="https://github.com/tomascortes/tomascortes/issues/new"><b>here</b></a>
-or via <a href="mailto:ticortes@uc.cl"><b>email</b></a>
 </br>
+## Another Stats
+
+![Metrics](https://github.com/FarDust/tomascortes/blob/main/github-metrics.svg)
 
 </div>
 
