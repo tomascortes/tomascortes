@@ -95,14 +95,7 @@
 <br />
 
 -->
-<div align="center">
 
-</br>
-## Another Stats
-
-![Metrics](https://github.com/tomascortes/blob/main/github-metrics.svg)
-
-</div>
 
 <!-- 
 [website]: https://codeSTACKr.com
