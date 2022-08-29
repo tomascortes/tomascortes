@@ -100,7 +100,7 @@
 </br>
 ## Another Stats
 
-![Metrics](https://github.com/FarDust/tomascortes/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tomascortes/blob/main/github-metrics.svg)
 
 </div>
 
