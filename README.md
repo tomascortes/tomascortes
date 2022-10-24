@@ -3,7 +3,7 @@
 ## I'm a Student, Teaching assistant and Developer
 
 - 🤓 Student of **Software Engineering** at the Pontific Catholic University of Chile.
-- 🔭 Assistantships in Data mining ⛏️
+- 🔭 Professor assistant in Data mining ⛏️ and Artificial Inteligence 🤖 courses
 - 🤔 Interest in Data Science and 3d printing
 <br />
 
