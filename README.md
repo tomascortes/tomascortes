@@ -1,9 +1,9 @@
 ### Hi there I'm Tomás Cortés 👋
 
-## I'm a Student, Teaching assistant and Developer
+## Data egineer
 
-- 🤓 Student of **Software Engineering** at the Pontific Catholic University of Chile.
-- 🔭 Professor assistant in Data mining ⛏️ and Artificial Inteligence 🤖 courses
+- 🤓 Bachelor in **Software Engineering** at the Pontific Catholic University of Chile.
+- Title in industrial egineering
 - 🤔 Interest in Data Science and 3d printing
 <br />
 
@@ -45,7 +45,6 @@
 ### Web Frameworks:
 
 ![Rails](https://img.shields.io/badge/Rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=black)
-![Koa](https://img.shields.io/badge/Koa-ffffff?style=for-the-badge&logo=koa&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=00C7B7)
@@ -75,6 +74,7 @@
 ### Frameworks and libraries
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 
 ---
