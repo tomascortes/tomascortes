@@ -2,8 +2,9 @@
 
 ## Data egineer
 
-- 🤓 Bachelor in **Software Engineering** at the Pontific Catholic University of Chile.
-- Title in industrial egineering
+- **Data Engineer**.
+- i
+- Industrial egineering
 - 🤔 Interest in Data Science and 3d printing
 <br />
 
