@@ -3,7 +3,6 @@
 ## Data egineer
 
 - **Data Engineer**.
-- i
 - Industrial egineering
 - 🤔 Interest in Data Science and 3d printing
 <br />
