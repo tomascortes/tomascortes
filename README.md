@@ -2,7 +2,7 @@
 
 ## Data egineer
 
-- **Data Engineer**.
+- Data Engineer/Data scientist.
 - Industrial egineering
 - 🤔 Interest in Data Science and 3d printing
 <br />
@@ -76,17 +76,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-
 ---
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=onedark&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomascortes&count_private=true&show_icons=true&langs_count=8&layout=compact&custom_title=Top%20Langs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomascortes&count_private=true&show_icons=true&theme=onedark&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascortes&repo=Migrations-Associations&theme=tokyonight)](https://github.com/tomascortes/Migrations-Associations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascortes&repo=Data-Structures-And-Algorithms&theme=tokyonight)](https://github.com/tomascortes/Data-Structures-And-Algorithms)
 <br />
