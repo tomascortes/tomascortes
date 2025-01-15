@@ -1,10 +1,10 @@
 ### Hi there I'm Tomás Cortés 👋
 
-## Data egineer
+## Data engineer
 
-- Data Engineer/Data scientist.
-- Industrial egineering
-- 🤔 Interest in Data Science and 3d printing
+- Data Engineer/Data scientist/Backend.
+- Industrial Engineering
+- 🤔 Interest in Data Science
 <br />
 
 <!--
