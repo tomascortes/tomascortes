@@ -1,10 +1,10 @@
 ### Hi there I'm Tomás Cortés 👋
 
-## Data engineer
+## Carrer
+- Data Engineer/scientist 2 years
+- Currently backend as a chatGPT wrapper
 
-- Data Engineer/Data scientist/Backend.
-- Industrial Engineering
-- 🤔 Interest in Data Science
+- Someday Full **data** stack ?¿
 <br />
 
 <!--
